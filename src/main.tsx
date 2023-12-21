@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import Bar from "./components/common/Info/Bar";
 
+
 import "./assets/index.css";
 import HomePage from "./pages/Home/HomePage.tsx";
 import ProductPage from "./pages/Products/ProductPage.tsx";
