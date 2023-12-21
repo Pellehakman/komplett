@@ -1,10 +1,8 @@
 function Bar() {
   return (
-    <>
-      <div className="bar w-full bg-slate-500">
-        <h1>Bar</h1>
-      </div>
-    </>
+    <div className="w-full bg-brand p-4">
+      <span className="">Bar</span>
+    </div>
   );
 }
 

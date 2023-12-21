@@ -1,13 +1,14 @@
-import { NavLink } from "react-router-dom";
+import Bar from "../../components/common/Info/Bar";
+import Navigation from "../../components/common/Navigation/Navigation";
 
 function ProductPage() {
-    return (
-      <>
-        <h1>ProductPage</h1>
-        <NavLink to={"/"}>Home</NavLink>
-      </>
-    );  
-  }
-  
-  export default ProductPage;
-  
+  return (
+    <>
+     
+
+      <h1>ProductPage</h1>
+    </>
+  );
+}
+
+export default ProductPage;

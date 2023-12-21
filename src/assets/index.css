@@ -1,3 +1,4 @@
+@import './variables.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -5,10 +6,7 @@
 @layer base {
   /* Set some basic styling for the entire page */
   body {
-    font-family: "Roboto", sans-serif;
-    color: #000000;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    @apply font-zen box-border m-0 p-0
   }
+
 }
