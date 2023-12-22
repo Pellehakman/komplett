@@ -8,7 +8,7 @@ import Breadcrumbs from "../Breadcrumbs/Breadcrumbs";
 
 function Header() {
   return (
-    <header className="w-full flex-col  flex p-4 gap-4">
+    <header className="w-full flex-col flex gap-4 my-4">
       <div className="flex items-center justify-between gap-4">
         <a href="#">
           <img className="" src={logo} />

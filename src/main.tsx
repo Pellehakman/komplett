@@ -16,7 +16,7 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
         <Header />
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/kategori" element={<ProductPage />} />
+          <Route path="/komponenter/grafikkort" element={<ProductPage />} />
         </Routes>
       </div>
     </Router>
