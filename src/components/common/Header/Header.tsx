@@ -4,6 +4,7 @@ import SearchBar from "../SearchBar/SearchBar";
 
 import CartButton from "../../buttons/CartButton";
 import ProfileButton from "../../buttons/ProfileButton";
+import Breadcrumbs from "../Breadcrumbs/Breadcrumbs";
 
 function Header() {
   return (
@@ -20,6 +21,7 @@ function Header() {
       </div>
 
       <Navigation />
+      <Breadcrumbs />
     </header>
   );
 }

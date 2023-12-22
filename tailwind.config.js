@@ -3,6 +3,17 @@ export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
     extend: {
+      container: {
+        screens: {
+          // Customize the breakpoint for the 'lg' screen
+          sm: "100%",
+          md: "640px",
+          lg: "768px",
+          xl: "1024px",
+          "2xl": "1280px",
+        },
+      },
+
       colors: {
         primary: "var(--primary)",
         black: "var(--black)",
@@ -40,7 +51,6 @@ export default {
       },
       fontFamily: {
         zen: ["var(--ff-zen)"],
-        
       },
     },
   },

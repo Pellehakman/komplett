@@ -1,0 +1,274 @@
+{
+  "graphics_cards": [
+    {
+      "id": "1",
+      "name": "Gainward GeForce RTX 4060Ti Ghost",
+      "type": "Grafikkort",
+      "description": "ZOTAC GAMING GeForce RTX 4070 AMP AIRO utnyttjar premium Air-Optimized-designen och använder den senaste NVIDIA Ada Lovelace-arkitekturen för att ge gamers banbrytande funktioner som DLSS 3 och strålspårning i realtid. Med hjälp av banbrytande kylteknik som härrör från flaggskeppsmodellen har AMP AIRO en förstklassig AIR-optimerad design och estetik med förbättrad brusreducering, robust hållbarhet och ger den kraft som behövs för att leverera fantastisk FPS i de senaste titlarna.",
+      "memory": "8GB GDDR6",
+      "stock": 50,
+      "price": 5449,
+      "image_urls": [
+        "https://example.com/gainward_rtx_4060ti_ghost_1.jpg",
+        "https://example.com/gainward_rtx_4060ti_ghost_2.jpg",
+        "https://example.com/gainward_rtx_4060ti_ghost_3.jpg"
+      ],
+      "manufacturer": "NVIDIA",
+      "model": "Placeholder Model",
+      "manufacturer_warranty_months": 24,
+      "EAN": "1234567890123"
+    },
+    {
+      "id": "2",
+      "name": "XFX Speedster MERC 319 Radeon RX 7800 XT Black",
+      "type": "Grafikkort",
+      "description": "XFX Speedster MERC 319 Radeon RX 7800 XT Black features cutting-edge Radeon RX 7800 XT graphics, offering high performance for gaming enthusiasts. With 16GB GDDR6 memory, PCI Express 4.0, and a sleek design, it delivers smooth gaming experiences and supports the latest technologies.",
+      "memory": "16GB GDDR6",
+      "stock": 35,
+      "price": 7799,
+      "image_urls": [
+        "https://example.com/xfx_rx_7800xt_black_1.jpg",
+        "https://example.com/xfx_rx_7800xt_black_2.jpg",
+        "https://example.com/xfx_rx_7800xt_black_3.jpg"
+      ],
+      "manufacturer": "XFX",
+      "model": "Speedster MERC 319",
+      "manufacturer_warranty_months": 36,
+      "EAN": "9876543210987"
+    },
+    {
+      "id": "3",
+      "name": "MSI GeForce RTX 4060Ti VENTUS 2X OC",
+      "type": "Grafikkort",
+      "description": "MSI GeForce RTX 4060Ti VENTUS 2X OC delivers powerful graphics performance with its 8GB GDDR6 memory and PCI Express 4.0 interface. The VENTUS 2X OC cooling system ensures efficient heat dissipation, allowing for smooth and stable gaming experiences.",
+      "memory": "8GB GDDR6",
+      "stock": 50,
+      "price": 5424,
+      "image_urls": [
+        "https://example.com/msi_rtx_4060ti_ventus_1.jpg",
+        "https://example.com/msi_rtx_4060ti_ventus_2.jpg",
+        "https://example.com/msi_rtx_4060ti_ventus_3.jpg"
+      ],
+      "manufacturer": "MSI",
+      "model": "GeForce RTX 4060Ti VENTUS 2X OC",
+      "manufacturer_warranty_months": 24,
+      "EAN": "5678901234567"
+    },
+    {
+      "id": "4",
+      "name": "ZOTAC Gaming GeForce RTX 4070 AMP AIRO",
+      "type": "Grafikkort",
+      "description": "ZOTAC Gaming GeForce RTX 4070 AMP AIRO leverages premium Air-Optimized design and utilizes the latest NVIDIA Ada Lovelace architecture to provide gamers with groundbreaking features such as DLSS 3 and real-time ray tracing.",
+      "memory": "12GB GDDR6X",
+      "stock": 16,
+      "price": 8552,
+      "image_urls": [
+        "https://example.com/zotac_rtx_4070_amp_airo_1.jpg",
+        "https://example.com/zotac_rtx_4070_amp_airo_2.jpg",
+        "https://example.com/zotac_rtx_4070_amp_airo_3.jpg"
+      ],
+      "manufacturer": "ZOTAC",
+      "model": "Gaming GeForce RTX 4070 AMP AIRO",
+      "manufacturer_warranty_months": 36,
+      "EAN": "4895173626661"
+    },
+    {
+      "id": "5",
+      "name": "MSI GeForce RTX 4060 Ti GAMING X SLIM",
+      "type": "Grafikkort",
+      "description": "MSI GeForce RTX 4060 Ti GAMING X SLIM features 16GB GDDR6 memory and a slim design for compact builds. The graphics card is equipped with advanced cooling technology, ensuring optimal performance during intense gaming sessions.",
+      "memory": "16GB GDDR6",
+      "stock": 13,
+      "price": 6099,
+      "image_urls": [
+        "https://example.com/msi_rtx_4060ti_gaming_x_slim_1.jpg",
+        "https://example.com/msi_rtx_4060ti_gaming_x_slim_2.jpg",
+        "https://example.com/msi_rtx_4060ti_gaming_x_slim_3.jpg"
+      ],
+      "manufacturer": "MSI",
+      "model": "GeForce RTX 4060 Ti GAMING X SLIM",
+      "manufacturer_warranty_months": 24,
+      "EAN": "2468013579113"
+    },
+    {
+      "id": "6",
+      "name": "ASUS ROG Strix Radeon RX 7900 XT",
+      "type": "Grafikkort",
+      "description": "ASUS ROG Strix Radeon RX 7900 XT delivers exceptional gaming performance with its advanced Radeon RX 7900 XT GPU. Featuring 24GB GDDR6X memory, Aura Sync RGB lighting, and a robust cooling system, it's designed for gaming enthusiasts seeking top-tier experiences.",
+      "memory": "24GB GDDR6X",
+      "stock": 25,
+      "price": 9899,
+      "image_urls": [
+        "https://example.com/asus_rx_7900xt_strix_1.jpg",
+        "https://example.com/asus_rx_7900xt_strix_2.jpg",
+        "https://example.com/asus_rx_7900xt_strix_3.jpg"
+      ],
+      "manufacturer": "ASUS",
+      "model": "ROG Strix Radeon RX 7900 XT",
+      "manufacturer_warranty_months": 36,
+      "EAN": "7654321098765"
+    },
+    {
+      "id": "7",
+      "name": "Gigabyte AORUS GeForce GTX 1080 Ti Xtreme Edition",
+      "type": "Grafikkort",
+      "description": "Gigabyte AORUS GeForce GTX 1080 Ti Xtreme Edition offers powerful graphics performance with 11GB GDDR5X memory and a factory-overclocked design. The AORUS cooling system ensures optimal temperature control during demanding gaming sessions.",
+      "memory": "11GB GDDR5X",
+      "stock": 18,
+      "price": 6999,
+      "image_urls": [
+        "https://example.com/gigabyte_gtx_1080ti_xtreme_1.jpg",
+        "https://example.com/gigabyte_gtx_1080ti_xtreme_2.jpg",
+        "https://example.com/gigabyte_gtx_1080ti_xtreme_3.jpg"
+      ],
+      "manufacturer": "Gigabyte",
+      "model": "AORUS GeForce GTX 1080 Ti Xtreme Edition",
+      "manufacturer_warranty_months": 24,
+      "EAN": "9876543212345"
+    },
+    {
+      "id": "8",
+      "name": "EVGA GeForce RTX 3070 XC3 Ultra Gaming",
+      "type": "Grafikkort",
+      "description": "EVGA GeForce RTX 3070 XC3 Ultra Gaming provides excellent performance for gaming and content creation. With 8GB GDDR6 memory, triple-fan cooling, and NVIDIA DLSS support, it's a reliable choice for high-end gaming setups.",
+      "memory": "8GB GDDR6",
+      "stock": 30,
+      "price": 5699,
+      "image_urls": [
+        "https://example.com/evga_rtx_3070_xc3_ultra_1.jpg",
+        "https://example.com/evga_rtx_3070_xc3_ultra_2.jpg",
+        "https://example.com/evga_rtx_3070_xc3_ultra_3.jpg"
+      ],
+      "manufacturer": "EVGA",
+      "model": "GeForce RTX 3070 XC3 Ultra Gaming",
+      "manufacturer_warranty_months": 24,
+      "EAN": "5432109876543"
+    },
+    {
+      "id": "9",
+      "name": "Sapphire Nitro+ Radeon RX 6900 XT",
+      "type": "Grafikkort",
+      "description": "Sapphire Nitro+ Radeon RX 6900 XT boasts 16GB GDDR6 memory and a powerful cooling solution. With features like Tri-X cooling, RGB lighting, and high clock speeds, it's engineered for high-performance gaming rigs.",
+      "memory": "16GB GDDR6",
+      "stock": 22,
+      "price": 8999,
+      "image_urls": [
+        "https://example.com/sapphire_rx_6900xt_nitro_1.jpg",
+        "https://example.com/sapphire_rx_6900xt_nitro_2.jpg",
+        "https://example.com/sapphire_rx_6900xt_nitro_3.jpg"
+      ],
+      "manufacturer": "Sapphire",
+      "model": "Nitro+ Radeon RX 6900 XT",
+      "manufacturer_warranty_months": 36,
+      "EAN": "8765432109876"
+    },
+    {
+      "id": "10",
+      "name": "Palit GeForce GTX 1660 Super StormX",
+      "type": "Grafikkort",
+      "description": "Palit GeForce GTX 1660 Super StormX offers a cost-effective solution for mainstream gaming. With 6GB GDDR5 memory and a compact design, it's suitable for budget-friendly gaming builds without compromising performance.",
+      "memory": "6GB GDDR5",
+      "stock": 40,
+      "price": 2499,
+      "image_urls": [
+        "https://example.com/palit_gtx_1660_super_stormx_1.jpg",
+        "https://example.com/palit_gtx_1660_super_stormx_2.jpg",
+        "https://example.com/palit_gtx_1660_super_stormx_3.jpg"
+      ],
+      "manufacturer": "Palit",
+      "model": "GeForce GTX 1660 Super StormX",
+      "manufacturer_warranty_months": 24,
+      "EAN": "1230987654321"
+    },
+    {
+      "id": "11",
+      "name": "ZOTAC Gaming GeForce RTX 3080 Trinity",
+      "type": "Grafikkort",
+      "description": "ZOTAC Gaming GeForce RTX 3080 Trinity delivers top-tier gaming performance with 10GB GDDR6X memory, IceStorm 2.0 cooling, and SPECTRA 2.0 RGB lighting. It's designed for enthusiasts seeking uncompromised graphics quality.",
+      "memory": "10GB GDDR6X",
+      "stock": 15,
+      "price": 7999,
+      "image_urls": [
+        "https://example.com/zotac_rtx_3080_trinity_1.jpg",
+        "https://example.com/zotac_rtx_3080_trinity_2.jpg",
+        "https://example.com/zotac_rtx_3080_trinity_3.jpg"
+      ],
+      "manufacturer": "ZOTAC",
+      "model": "Gaming GeForce RTX 3080 Trinity",
+      "manufacturer_warranty_months": 36,
+      "EAN": "1357924680246"
+    },
+    {
+      "id": "12",
+      "name": "MSI Radeon RX 6700 XT Gaming X",
+      "type": "Grafikkort",
+      "description": "MSI Radeon RX 6700 XT Gaming X offers a balance of performance and aesthetics. With 12GB GDDR6 memory, TORX Fan 3.0 cooling, and Mystic Light RGB, it's suitable for gamers who prioritize both power and style.",
+      "memory": "12GB GDDR6",
+      "stock": 28,
+      "price": 4599,
+      "image_urls": [
+        "https://example.com/msi_rx_6700xt_gaming_x_1.jpg",
+        "https://example.com/msi_rx_6700xt_gaming_x_2.jpg",
+        "https://example.com/msi_rx_6700xt_gaming_x_3.jpg"
+      ],
+      "manufacturer": "MSI",
+      "model": "Radeon RX 6700 XT Gaming X",
+      "manufacturer_warranty_months": 24,
+      "EAN": "2468135790246"
+    },
+    {
+      "id": "13",
+      "name": "Gigabyte GeForce GTX 1050 Ti OC Low Profile 4G",
+      "type": "Grafikkort",
+      "description": "Gigabyte GeForce GTX 1050 Ti OC Low Profile 4G is a compact solution for small form factor builds. With 4GB GDDR5 memory, low profile design, and reliable performance, it's ideal for HTPCs and compact gaming systems.",
+      "memory": "4GB GDDR5",
+      "stock": 32,
+      "price": 1899,
+      "image_urls": [
+        "https://example.com/gigabyte_gtx_1050ti_low_profile_1.jpg",
+        "https://example.com/gigabyte_gtx_1050ti_low_profile_2.jpg",
+        "https://example.com/gigabyte_gtx_1050ti_low_profile_3.jpg"
+      ],
+      "manufacturer": "Gigabyte",
+      "model": "GeForce GTX 1050 Ti OC Low Profile 4G",
+      "manufacturer_warranty_months": 24,
+      "EAN": "6789012345678"
+    },
+    {
+      "id": "14",
+      "name": "PowerColor Red Devil Radeon RX 6800 XT",
+      "type": "Grafikkort",
+      "description": "PowerColor Red Devil Radeon RX 6800 XT is a high-performance graphics card for demanding gamers. With 16GB GDDR6 memory, a custom Red Devil cooling solution, and RGB lighting, it's built for immersive gaming experiences.",
+      "memory": "16GB GDDR6",
+      "stock": 20,
+      "price": 7599,
+      "image_urls": [
+        "https://example.com/powercolor_rx_6800xt_red_devil_1.jpg",
+        "https://example.com/powercolor_rx_6800xt_red_devil_2.jpg",
+        "https://example.com/powercolor_rx_6800xt_red_devil_3.jpg"
+      ],
+      "manufacturer": "PowerColor",
+      "model": "Red Devil Radeon RX 6800 XT",
+      "manufacturer_warranty_months": 36,
+      "EAN": "8901234567890"
+    },
+    {
+      "id": "15",
+      "name": "Inno3D GeForce GTX 1650 Compact",
+      "type": "Grafikkort",
+      "description": "Inno3D GeForce GTX 1650 Compact is a budget-friendly option for casual gamers. With 4GB GDDR5 memory and a compact design, it provides reliable performance for entry-level gaming setups.",
+      "memory": "4GB GDDR5",
+      "stock": 45,
+      "price": 1299,
+      "image_urls": [
+        "https://example.com/inno3d_gtx_1650_compact_1.jpg",
+        "https://example.com/inno3d_gtx_1650_compact_2.jpg",
+        "https://example.com/inno3d_gtx_1650_compact_3.jpg"
+      ],
+      "manufacturer": "Inno3D",
+      "model": "GeForce GTX 1650 Compact",
+      "manufacturer_warranty_months": 24,
+      "EAN": "1234567890123"
+    }
+  ]
+}

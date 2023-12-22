@@ -1,0 +1,72 @@
+{
+  "graphics_cards": [
+    {
+      "id": "1",
+      "name": "Gainward GeForce RTX 4060Ti Ghost",
+      "type": "Grafikkort",      
+      "description": "ZOTAC GAMING GeForce RTX 4070 AMP AIRO utnyttjar premium Air-Optimized-designen och använder den senaste NVIDIA Ada Lovelace-arkitekturen för att ge gamers banbrytande funktioner som DLSS 3 och strålspårning i realtid. Med hjälp av banbrytande kylteknik som härrör från flaggskeppsmodellen har AMP AIRO en förstklassig AIR-optimerad design och estetik med förbättrad brusreducering, robust hållbarhet och ger den kraft som behövs för att leverera fantastisk FPS i de senaste titlarna.",
+      "memory": "8GB GDDR6",
+      "stock": 50,
+      "article_number": "1246766",
+      "product_number": "3949",
+      "price": 5449,
+      "image_urls": [
+        "https://example.com/gainward_rtx_4060ti_ghost_1.jpg",
+        "https://example.com/gainward_rtx_4060ti_ghost_2.jpg",
+        "https://example.com/gainward_rtx_4060ti_ghost_3.jpg"
+      ],
+      "specifications": {
+        "product_line": "Placeholder Product Line",
+        "manufacturer": "NVIDIA",
+        "model": "Placeholder Model",
+        "manufacturer_warranty_months": 24,
+        "EAN": "1234567890123"
+      },
+      "video_output": {
+        "quick_clock_speed": 2000,
+        "interface_type": "PCI Express 4.0 x16",
+        "CUDA_cores": 5000,
+        "HDCP_compatible": true,
+        "max_external_resolution": 7680,
+        "max_supported_monitors": 4,
+        "API_support": ["OpenGL 4.6", "DirectX 12 Ultimate"],
+        "output_ports": ["HDMI", "DisplayPort"],
+        "supported_video_signals": ["DisplayPort", "HDMI"]
+      },
+      "video_memory": {
+        "speed": 16000,
+        "bus_width": 256,
+        "technology": "GDDR6",
+        "installed_size": 8
+      },
+      "power_supply": {
+        "power_consumption": 180,
+        "required_power_supply": 550
+      },
+      "system_requirements": {
+        "required_power_supply": 550,
+        "required_operating_system": ["Windows 10 (64-bit)"]
+      },
+      "miscellaneous": {
+        "included_video_adapter_accessories": [
+          "Placeholder Accessory 1",
+          "Placeholder Accessory 2"
+        ],
+        "color_category": "Black",
+        "standards_compliance": [
+          "Placeholder Standard 1",
+          "Placeholder Standard 2"
+        ]
+      },
+      "dimensions_and_weight": {
+        "width": 10,
+        "depth": 25,
+        "height": 5
+      },
+      "service_and_support": {
+        "type": "2 years limited warranty with product registration",
+        "warranty_specifications": "Limited warranty - 3 years, Limited warranty - 2 years with product registration"
+      }
+    },
+  ]
+}
