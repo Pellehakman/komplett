@@ -14,7 +14,7 @@ const Breadcrumbs = () => {
     <nav className="flex items-center gap-2 px-4">
       <Link to="/" className="flex items-center gap-2 text-sm ">
         {/* <FontAwesomeIcon className="w-4" icon={faHouse} /> */}
-        Home
+        Hem
       </Link>
 
       {pathSegments.map((segment, index) => (

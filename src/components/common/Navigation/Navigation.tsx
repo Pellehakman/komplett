@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Link } from "react-router-dom";
 
 function Navigation() {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
@@ -15,7 +16,7 @@ function Navigation() {
   const closeDropdown = () => {
     timeoutRef.current = setTimeout(() => {
       setIsDropdownOpen(false);
-    }, 1000);
+    }, 400);
   };
 
   const handleClickOutside = (event: MouseEvent) => {
@@ -53,8 +54,8 @@ function Navigation() {
             } absolute mt-4 top-full w-full left-0 bg-white p-4 rounded-md shadow-md`}
           >
             <span>
-              <h1 className="py-4">Grafikkort</h1>
-              <h1 className="py-4">Grafikkort</h1>
+              <Link to={"komponenter/grafikkort"}>Grafikkort</Link>
+              
             </span>
           </div>
         </div>
