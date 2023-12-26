@@ -3,9 +3,9 @@ import ProductCard from "../../components/common/ProductCard/ProductCard";
 
 const ProductPage = () => {
   return (
-    <div className="flex grow gap-4">
+    <div className="flex w-full gap-4">
       <Filter />
-      <div className="flex grow flex-wrap gap-4">
+      <div className="flex w-full flex-wrap gap-4">
         <ProductCard />
         <ProductCard />
         <ProductCard />
