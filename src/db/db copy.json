@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Gainward GeForce RTX 4060Ti Ghost",
-      "type": "Grafikkort",      
+      "type": "Grafikkort",
       "description": "ZOTAC GAMING GeForce RTX 4070 AMP AIRO utnyttjar premium Air-Optimized-designen och använder den senaste NVIDIA Ada Lovelace-arkitekturen för att ge gamers banbrytande funktioner som DLSS 3 och strålspårning i realtid. Med hjälp av banbrytande kylteknik som härrör från flaggskeppsmodellen har AMP AIRO en förstklassig AIR-optimerad design och estetik med förbättrad brusreducering, robust hållbarhet och ger den kraft som behövs för att leverera fantastisk FPS i de senaste titlarna.",
       "memory": "8GB GDDR6",
       "stock": 50,
@@ -11,7 +11,7 @@
       "product_number": "3949",
       "price": 5449,
       "image_urls": [
-        "https://example.com/gainward_rtx_4060ti_ghost_1.jpg",
+        "https://cdn.inet.se/product/1600x900/5413904_0.png",
         "https://example.com/gainward_rtx_4060ti_ghost_2.jpg",
         "https://example.com/gainward_rtx_4060ti_ghost_3.jpg"
       ],
@@ -67,6 +67,6 @@
         "type": "2 years limited warranty with product registration",
         "warranty_specifications": "Limited warranty - 3 years, Limited warranty - 2 years with product registration"
       }
-    },
+    }
   ]
 }

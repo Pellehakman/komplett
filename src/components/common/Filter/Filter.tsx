@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Filter = () => {
   return (
-    <aside className="bg-white p-4 gap-4 rounded-sm flex flex-col ">
+    <aside className="bg-white flex-grow w-52 p-4 gap-4 rounded-sm flex flex-col ">
       <div>
         <div className="flex gap-2 mb-2 items-center">
           <span className="font-bold">Tillverkare</span>

@@ -1,4 +1,4 @@
-@import './variables.css';
+@import "./variables.css";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,7 +6,12 @@
 @layer base {
   /* Set some basic styling for the entire page */
   body {
-    @apply font-zen bg-background box-border m-0 p-0
+    @apply font-zen bg-background box-border m-0 p-0;
   }
 
+  @layer components {
+    .ratingStar__icon {
+      @apply text-yellow-300 text-sm;
+    }
+  }
 }

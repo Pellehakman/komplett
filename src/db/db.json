@@ -2,38 +2,40 @@
   "graphics_cards": [
     {
       "id": "1",
-      "name": "Gainward GeForce RTX 4060Ti Ghost",
+      "name": "GeForce RTX 4060 Ti GAMING X SLIM",
       "type": "Grafikkort",
       "description": "ZOTAC GAMING GeForce RTX 4070 AMP AIRO utnyttjar premium Air-Optimized-designen och använder den senaste NVIDIA Ada Lovelace-arkitekturen för att ge gamers banbrytande funktioner som DLSS 3 och strålspårning i realtid. Med hjälp av banbrytande kylteknik som härrör från flaggskeppsmodellen har AMP AIRO en förstklassig AIR-optimerad design och estetik med förbättrad brusreducering, robust hållbarhet och ger den kraft som behövs för att leverera fantastisk FPS i de senaste titlarna.",
       "memory": "8GB GDDR6",
       "stock": 50,
       "price": 5449,
       "image_urls": [
-        "https://example.com/gainward_rtx_4060ti_ghost_1.jpg",
+        "https://cdn.inet.se/product/1600x900/5413904_0.png",
         "https://example.com/gainward_rtx_4060ti_ghost_2.jpg",
         "https://example.com/gainward_rtx_4060ti_ghost_3.jpg"
       ],
+      "brand": "Gainward",
       "manufacturer": "NVIDIA",
       "model": "Placeholder Model",
-      "manufacturer_warranty_months": 24,
+      "brand_warranty_months": 24,
       "EAN": "1234567890123"
     },
     {
       "id": "2",
-      "name": "XFX Speedster MERC 319 Radeon RX 7800 XT Black",
+      "name": "Speedster MERC 319 RX 7800 XT",
       "type": "Grafikkort",
       "description": "XFX Speedster MERC 319 Radeon RX 7800 XT Black features cutting-edge Radeon RX 7800 XT graphics, offering high performance for gaming enthusiasts. With 16GB GDDR6 memory, PCI Express 4.0, and a sleek design, it delivers smooth gaming experiences and supports the latest technologies.",
       "memory": "16GB GDDR6",
       "stock": 35,
       "price": 7799,
       "image_urls": [
-        "https://example.com/xfx_rx_7800xt_black_1.jpg",
+        "https://www.netonnet.se/GetFile/ProductImagePrimary/datorkomponenter/grafikkort/amd/sapphire-radeon-rx-7800-xt-speedster-merc-319-black(1031205)_604328_1_Normal_Extra.webp",
         "https://example.com/xfx_rx_7800xt_black_2.jpg",
         "https://example.com/xfx_rx_7800xt_black_3.jpg"
       ],
-      "manufacturer": "XFX",
+      "brand": "XFX",
+      "manufacturer": "AMD RADEON",
       "model": "Speedster MERC 319",
-      "manufacturer_warranty_months": 36,
+      "brand_warranty_months": 36,
       "EAN": "9876543210987"
     },
     {
@@ -45,13 +47,14 @@
       "stock": 50,
       "price": 5424,
       "image_urls": [
-        "https://example.com/msi_rtx_4060ti_ventus_1.jpg",
+        "https://cdn.inet.se/product/1600x900/5413532_6.png",
         "https://example.com/msi_rtx_4060ti_ventus_2.jpg",
         "https://example.com/msi_rtx_4060ti_ventus_3.jpg"
       ],
-      "manufacturer": "MSI",
+      "brand": "MSI",
+      "manufacturer": "NVIDIA",
       "model": "GeForce RTX 4060Ti VENTUS 2X OC",
-      "manufacturer_warranty_months": 24,
+      "brand_warranty_months": 24,
       "EAN": "5678901234567"
     },
     {
@@ -63,13 +66,14 @@
       "stock": 16,
       "price": 8552,
       "image_urls": [
-        "https://example.com/zotac_rtx_4070_amp_airo_1.jpg",
+        "https://www.komplett.se/img/p/1200/1244661.jpg",
         "https://example.com/zotac_rtx_4070_amp_airo_2.jpg",
         "https://example.com/zotac_rtx_4070_amp_airo_3.jpg"
       ],
-      "manufacturer": "ZOTAC",
+      "brand": "ZOTAC",
+      "manufacturer": "NVIDIA",
       "model": "Gaming GeForce RTX 4070 AMP AIRO",
-      "manufacturer_warranty_months": 36,
+      "brand_warranty_months": 36,
       "EAN": "4895173626661"
     },
     {
@@ -81,13 +85,14 @@
       "stock": 13,
       "price": 6099,
       "image_urls": [
-        "https://example.com/msi_rtx_4060ti_gaming_x_slim_1.jpg",
+        "https://cdn.inet.se/product/1600x900/5413904_0.png",
         "https://example.com/msi_rtx_4060ti_gaming_x_slim_2.jpg",
         "https://example.com/msi_rtx_4060ti_gaming_x_slim_3.jpg"
       ],
-      "manufacturer": "MSI",
+      "brand": "MSI",
+      "manufacturer": "NVIDIA",
       "model": "GeForce RTX 4060 Ti GAMING X SLIM",
-      "manufacturer_warranty_months": 24,
+      "brand_warranty_months": 24,
       "EAN": "2468013579113"
     },
     {
@@ -99,13 +104,14 @@
       "stock": 25,
       "price": 9899,
       "image_urls": [
-        "https://example.com/asus_rx_7900xt_strix_1.jpg",
+        "https://www.komplett.se/img/p/1200/1244661.jpg",
         "https://example.com/asus_rx_7900xt_strix_2.jpg",
         "https://example.com/asus_rx_7900xt_strix_3.jpg"
       ],
-      "manufacturer": "ASUS",
+      "brand": "ASUS",
+      "manufacturer": "AMD RADEON",
       "model": "ROG Strix Radeon RX 7900 XT",
-      "manufacturer_warranty_months": 36,
+      "brand_warranty_months": 36,
       "EAN": "7654321098765"
     },
     {
@@ -117,13 +123,14 @@
       "stock": 18,
       "price": 6999,
       "image_urls": [
-        "https://example.com/gigabyte_gtx_1080ti_xtreme_1.jpg",
+        "https://cdn.inet.se/product/1600x900/5413532_6.png",
         "https://example.com/gigabyte_gtx_1080ti_xtreme_2.jpg",
         "https://example.com/gigabyte_gtx_1080ti_xtreme_3.jpg"
       ],
-      "manufacturer": "Gigabyte",
+      "brand": "Gigabyte",
+      "manufacturer": "NVIDIA",
       "model": "AORUS GeForce GTX 1080 Ti Xtreme Edition",
-      "manufacturer_warranty_months": 24,
+      "brand_warranty_months": 24,
       "EAN": "9876543212345"
     },
     {
@@ -135,13 +142,14 @@
       "stock": 30,
       "price": 5699,
       "image_urls": [
-        "https://example.com/evga_rtx_3070_xc3_ultra_1.jpg",
+        "https://www.netonnet.se/GetFile/ProductImagePrimary/datorkomponenter/grafikkort/amd/sapphire-radeon-rx-7800-xt-speedster-merc-319-black(1031205)_604328_1_Normal_Extra.webp",
         "https://example.com/evga_rtx_3070_xc3_ultra_2.jpg",
         "https://example.com/evga_rtx_3070_xc3_ultra_3.jpg"
       ],
-      "manufacturer": "EVGA",
+      "brand": "EVGA",
+      "manufacturer": "NVIDIA",
       "model": "GeForce RTX 3070 XC3 Ultra Gaming",
-      "manufacturer_warranty_months": 24,
+      "brand_warranty_months": 24,
       "EAN": "5432109876543"
     },
     {
@@ -153,13 +161,14 @@
       "stock": 22,
       "price": 8999,
       "image_urls": [
-        "https://example.com/sapphire_rx_6900xt_nitro_1.jpg",
+        "https://cdn.inet.se/product/1600x900/5413807_6.png",
         "https://example.com/sapphire_rx_6900xt_nitro_2.jpg",
         "https://example.com/sapphire_rx_6900xt_nitro_3.jpg"
       ],
-      "manufacturer": "Sapphire",
+      "brand": "Sapphire",
+      "manufacturer": "AMD RADEON",
       "model": "Nitro+ Radeon RX 6900 XT",
-      "manufacturer_warranty_months": 36,
+      "brand_warranty_months": 36,
       "EAN": "8765432109876"
     },
     {
@@ -171,13 +180,14 @@
       "stock": 40,
       "price": 2499,
       "image_urls": [
-        "https://example.com/palit_gtx_1660_super_stormx_1.jpg",
+        "https://www.elgiganten.se/image/dv_web_D180001002785712/332506/geforce-gtx-1660super-gamingpro-oc--pdp_zoom-3000--pdp_main-960.jpg",
         "https://example.com/palit_gtx_1660_super_stormx_2.jpg",
         "https://example.com/palit_gtx_1660_super_stormx_3.jpg"
       ],
-      "manufacturer": "Palit",
+      "brand": "Palit",
+      "manufacturer": "NVIDIA",
       "model": "GeForce GTX 1660 Super StormX",
-      "manufacturer_warranty_months": 24,
+      "brand_warranty_months": 24,
       "EAN": "1230987654321"
     },
     {
@@ -189,13 +199,14 @@
       "stock": 15,
       "price": 7999,
       "image_urls": [
-        "https://example.com/zotac_rtx_3080_trinity_1.jpg",
+        "https://www.elgiganten.se/image/dv_web_D180001002473641/721156/asus-geforce-gtx-1660-super-6gb-phoenix-oc--pdp_zoom-3000--pdp_main-960.jpg",
         "https://example.com/zotac_rtx_3080_trinity_2.jpg",
         "https://example.com/zotac_rtx_3080_trinity_3.jpg"
       ],
-      "manufacturer": "ZOTAC",
+      "brand": "ZOTAC",
+      "manufacturer": "NVIDIA",
       "model": "Gaming GeForce RTX 3080 Trinity",
-      "manufacturer_warranty_months": 36,
+      "brand_warranty_months": 36,
       "EAN": "1357924680246"
     },
     {
@@ -207,68 +218,15 @@
       "stock": 28,
       "price": 4599,
       "image_urls": [
-        "https://example.com/msi_rx_6700xt_gaming_x_1.jpg",
+        "https://cdn.inet.se/product/1600x900/5412871_13.png",
         "https://example.com/msi_rx_6700xt_gaming_x_2.jpg",
         "https://example.com/msi_rx_6700xt_gaming_x_3.jpg"
       ],
-      "manufacturer": "MSI",
+      "brand": "MSI",
+      "manufacturer": "AMD RADEON",
       "model": "Radeon RX 6700 XT Gaming X",
-      "manufacturer_warranty_months": 24,
+      "brand_warranty_months": 24,
       "EAN": "2468135790246"
-    },
-    {
-      "id": "13",
-      "name": "Gigabyte GeForce GTX 1050 Ti OC Low Profile 4G",
-      "type": "Grafikkort",
-      "description": "Gigabyte GeForce GTX 1050 Ti OC Low Profile 4G is a compact solution for small form factor builds. With 4GB GDDR5 memory, low profile design, and reliable performance, it's ideal for HTPCs and compact gaming systems.",
-      "memory": "4GB GDDR5",
-      "stock": 32,
-      "price": 1899,
-      "image_urls": [
-        "https://example.com/gigabyte_gtx_1050ti_low_profile_1.jpg",
-        "https://example.com/gigabyte_gtx_1050ti_low_profile_2.jpg",
-        "https://example.com/gigabyte_gtx_1050ti_low_profile_3.jpg"
-      ],
-      "manufacturer": "Gigabyte",
-      "model": "GeForce GTX 1050 Ti OC Low Profile 4G",
-      "manufacturer_warranty_months": 24,
-      "EAN": "6789012345678"
-    },
-    {
-      "id": "14",
-      "name": "PowerColor Red Devil Radeon RX 6800 XT",
-      "type": "Grafikkort",
-      "description": "PowerColor Red Devil Radeon RX 6800 XT is a high-performance graphics card for demanding gamers. With 16GB GDDR6 memory, a custom Red Devil cooling solution, and RGB lighting, it's built for immersive gaming experiences.",
-      "memory": "16GB GDDR6",
-      "stock": 20,
-      "price": 7599,
-      "image_urls": [
-        "https://example.com/powercolor_rx_6800xt_red_devil_1.jpg",
-        "https://example.com/powercolor_rx_6800xt_red_devil_2.jpg",
-        "https://example.com/powercolor_rx_6800xt_red_devil_3.jpg"
-      ],
-      "manufacturer": "PowerColor",
-      "model": "Red Devil Radeon RX 6800 XT",
-      "manufacturer_warranty_months": 36,
-      "EAN": "8901234567890"
-    },
-    {
-      "id": "15",
-      "name": "Inno3D GeForce GTX 1650 Compact",
-      "type": "Grafikkort",
-      "description": "Inno3D GeForce GTX 1650 Compact is a budget-friendly option for casual gamers. With 4GB GDDR5 memory and a compact design, it provides reliable performance for entry-level gaming setups.",
-      "memory": "4GB GDDR5",
-      "stock": 45,
-      "price": 1299,
-      "image_urls": [
-        "https://example.com/inno3d_gtx_1650_compact_1.jpg",
-        "https://example.com/inno3d_gtx_1650_compact_2.jpg",
-        "https://example.com/inno3d_gtx_1650_compact_3.jpg"
-      ],
-      "manufacturer": "Inno3D",
-      "model": "GeForce GTX 1650 Compact",
-      "manufacturer_warranty_months": 24,
-      "EAN": "1234567890123"
     }
   ]
 }
