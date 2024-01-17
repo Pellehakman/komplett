@@ -1,9 +1,14 @@
 import DetailedCard from "../../components/common/DetailedCard/DetailedCard";
 import Filter from "../../components/common/Filter/Filter";
 import ProductCard from "../../components/common/ProductCard/ProductCard";
+
+import $firebaseService from "@/helpers/FirebaseService.jsx";
+
 import data from "../../db/db.json";
 
-const ProductPage = () => {
+const ProductPage = async () => {
+  const data = await $firebaseService.getProducts();
+
   return (
     <div className="flex w-full gap-4">
       <Filter />
