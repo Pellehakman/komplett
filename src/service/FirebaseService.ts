@@ -3,13 +3,18 @@ import { collection, getDocs, getFirestore, query } from "firebase/firestore";
 class FirebaseService {
   async getProducts() {
     const firestore = getFirestore();
-    const product = query(collection(firestore, "gpu"));
-    const snapshots = await getDocs(product);
+    const productCollection = collection(
+      firestore,
+      "products",
+      "category",
+      "gpu"
+    );
+    const snapshots = await getDocs(productCollection);
     const fetchFirebase = snapshots.docs.map((doc) => {
       const data = doc.data();
       return data;
     });
-    return fetchFirebase[0];
+    return fetchFirebase;
   }
 }
 
