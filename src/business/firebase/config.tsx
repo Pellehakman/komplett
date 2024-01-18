@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app"; // no compat for new SDK
 import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
+export const firebaseConfig = {
   apiKey: "AIzaSyCB5r_1E8DCxnJJ877L_fk27hv8DAaTpQY",
   authDomain: "komplett-db.firebaseapp.com",
   projectId: "komplett-db",

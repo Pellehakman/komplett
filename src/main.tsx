@@ -7,6 +7,10 @@ import "./assets/index.css";
 import HomePage from "./pages/Home/HomePage.tsx";
 import ProductPage from "./pages/Products/ProductPage.tsx";
 import Header from "./components/common/Header/Header.tsx";
+import { initializeApp } from "firebase/app";
+import { firebaseConfig } from "./business/firebase/config.tsx";
+
+initializeApp(firebaseConfig);
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
